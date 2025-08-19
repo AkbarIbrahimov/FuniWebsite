@@ -22,6 +22,9 @@ namespace Funi.Controllers
             {
                 homeHero=await _db.Heroes.FirstOrDefaultAsync(),
                 category=await _db.Categories.ToListAsync(),
+                chooseUs = await _db.ChooseUs.FirstOrDefaultAsync(),
+                chooseServices = await _db.ChooseServices.ToListAsync(),
+                design = await _db.Designs.FirstOrDefaultAsync(),
             };
             return View(homeVM);
         }

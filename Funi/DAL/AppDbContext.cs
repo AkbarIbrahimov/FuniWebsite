@@ -12,6 +12,9 @@ namespace Funi.DAL
         public DbSet<HomeHero> Heroes { get; set; }
         public DbSet<Category> Categories { get; set; }
         
+        public DbSet<ChooseUs> ChooseUs { get; set; }
+        public DbSet<ChooseService> ChooseServices { get; set; }
+        public DbSet<Design> Designs { get; set; }
 
 
     }

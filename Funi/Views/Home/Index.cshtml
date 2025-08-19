@@ -31,35 +31,16 @@
 	<div class="container">
 		<div class="row">
 			<div class="categories">
-				<div class="category-card">
-					<img src="https://cdn-icons-png.flaticon.com/512/1065/1065674.png" alt="Elektronika">
-					<h4>Elektronika</h4>
-				</div>
+				@foreach (Category cat in Model.category)
+				{
+					<div class="category-card">
+						<img src="@cat?.Image" alt="@cat?.Name">
+						<h4>@cat?.Name</h4>
+					</div>
+				}
+				
 
-				<div class="category-card">
-					<img src="https://cdn-icons-png.flaticon.com/512/2769/2769281.png" alt="Mebel">
-					<h4>Mebel</h4>
-				</div>
-
-				<div class="category-card">
-					<img src="https://cdn-icons-png.flaticon.com/512/2900/2900397.png" alt="Ev və bağ">
-					<h4>Ev və bağ</h4>
-				</div>
-
-				<div class="category-card">
-					<img src="https://cdn-icons-png.flaticon.com/512/2965/2965567.png" alt="Təmir və tikinti">
-					<h4>Təmir və tikinti</h4>
-				</div>
-
-				<div class="category-card">
-					<img src="https://cdn-icons-png.flaticon.com/512/1474/1474482.png" alt="Daşınmaz əmlak">
-					<h4>Daşınmaz əmlak</h4>
-				</div>
-
-				<div class="category-card">
-					<img src="https://cdn-icons-png.flaticon.com/512/743/743922.png" alt="Nəqliyyat">
-					<h4>Nəqliyyat</h4>
-				</div>
+			
 			</div>
 		</div>
 
@@ -71,56 +52,32 @@
 	<div class="container">
 		<div class="row justify-content-between">
 			<div class="col-lg-6">
-				<h2 class="section-title">Why Choose Us</h2>
-				<p>Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate velit imperdiet dolor tempor tristique.</p>
+				<h2 class="section-title">@Model.chooseUs?.Title</h2>
+				<p>@Model.chooseUs?.Description</p>
 
 				<div class="row my-5">
-					<div class="col-6 col-md-6">
-						<div class="feature">
-							<div class="icon">
-								<img src="images/truck.svg" alt="Image" class="imf-fluid">
+					@foreach (ChooseService item in Model.chooseServices)
+					{
+						<div class="col-6 col-md-6">
+							<div class="feature">
+								<div class="icon">
+									<img src="@item.Icon" alt="@item.Title" class="imf-fluid">
+								</div>
+								<h3>@item.Title</h3>
+								<p>@item.Description</p>
 							</div>
-							<h3>Fast &amp; Free Shipping</h3>
-							<p>Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate.</p>
 						</div>
-					</div>
+					}
+					
 
-					<div class="col-6 col-md-6">
-						<div class="feature">
-							<div class="icon">
-								<img src="images/bag.svg" alt="Image" class="imf-fluid">
-							</div>
-							<h3>Easy to Shop</h3>
-							<p>Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate.</p>
-						</div>
-					</div>
-
-					<div class="col-6 col-md-6">
-						<div class="feature">
-							<div class="icon">
-								<img src="images/support.svg" alt="Image" class="imf-fluid">
-							</div>
-							<h3>24/7 Support</h3>
-							<p>Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate.</p>
-						</div>
-					</div>
-
-					<div class="col-6 col-md-6">
-						<div class="feature">
-							<div class="icon">
-								<img src="images/return.svg" alt="Image" class="imf-fluid">
-							</div>
-							<h3>Hassle Free Returns</h3>
-							<p>Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate.</p>
-						</div>
-					</div>
+					
 
 				</div>
 			</div>
 
 			<div class="col-lg-5">
 				<div class="img-wrap">
-					<img src="images/why-choose-us-img.jpg" alt="Image" class="img-fluid">
+					<img src="@Model.chooseUs?.Image" alt="Image" class="img-fluid">
 				</div>
 			</div>
 
@@ -134,20 +91,21 @@
 		<div class="row justify-content-between">
 			<div class="col-lg-7 mb-5 mb-lg-0">
 				<div class="imgs-grid">
-					<div class="grid grid-1"><img src="images/img-grid-1.jpg" alt="Untree.co"></div>
-					<div class="grid grid-2"><img src="images/img-grid-2.jpg" alt="Untree.co"></div>
-					<div class="grid grid-3"><img src="images/img-grid-3.jpg" alt="Untree.co"></div>
+					<div class="grid grid-1"><img src="@Model.design?.ImageOne" alt="Untree.co"></div>
+					<div class="grid grid-2"><img src="@Model.design?.ImageTwo" alt="Untree.co"></div>
+					<div class="grid grid-3"><img src="@Model.design?.ImageThree" alt="Untree.co"></div>
 				</div>
 			</div>
 			<div class="col-lg-5 ps-lg-5">
-				<h2 class="section-title mb-4">We Help You Make Modern Interior Design</h2>
-				<p>Donec facilisis quam ut purus rutrum lobortis. Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate velit imperdiet dolor tempor tristique. Pellentesque habitant morbi tristique senectus et netus et malesuada</p>
+				<h2 class="section-title mb-4">@Model.design?.Title</h2>
+				<p>@Model.design?.Description</p>
 
 				<ul class="list-unstyled custom-list my-4">
-					<li>Donec vitae odio quis nisl dapibus malesuada</li>
-					<li>Donec vitae odio quis nisl dapibus malesuada</li>
-					<li>Donec vitae odio quis nisl dapibus malesuada</li>
-					<li>Donec vitae odio quis nisl dapibus malesuada</li>
+					<li>@Model.design?.Subtitle1</li>
+					<li>@Model.design?.Subtitle2</li>
+					<li>@Model.design?.Subtitle3</li>
+					<li>@Model.design?.Subtitle4</li>
+					
 				</ul>
 				<p><a herf="#" class="btn">Explore</a></p>
 			</div>
