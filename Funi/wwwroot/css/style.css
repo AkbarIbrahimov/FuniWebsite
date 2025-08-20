@@ -17,13 +17,18 @@ body {
   font-size: 14px;
   background-color: #eff2f1; }
 
+
+.menu-title{
+    margin-left:5px !important;
+}
 a {
-  text-decoration: none;
-  -webkit-transition: .3s all ease;
-  -o-transition: .3s all ease;
-  transition: .3s all ease;
-  color: #2f2f2f;
-  text-decoration: underline; }
+    text-decoration: none;
+    -webkit-transition: .3s all ease;
+    -o-transition: .3s all ease;
+    transition: .3s all ease;
+    color: #2f2f2f;
+    text-decoration: underline;
+}
   a:hover {
     color: #2f2f2f;
     text-decoration: none; }

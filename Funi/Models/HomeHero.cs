@@ -1,4 +1,6 @@
-﻿namespace Funi.Models
+﻿using System.ComponentModel.DataAnnotations.Schema;
+
+namespace Funi.Models
 {
     public class HomeHero
     {
@@ -6,5 +8,8 @@
         public string? Title { get; set; }
         public string? Description { get; set; }
         public string? Image { get; set; }
+
+        [NotMapped]
+        public IFormFile? ImagePath { get; set; }
     }
 }
