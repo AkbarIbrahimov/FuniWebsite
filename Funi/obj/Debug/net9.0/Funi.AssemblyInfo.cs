@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Funi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0d4f931a3c8ddbb22a21b2cf0ba11e8cd3f9496")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a2df744d13925d32c869d40f6982d4a7dcabe5f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Funi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Funi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -24,7 +24,9 @@ namespace Funi.Areas.Admin.Controllers
         // GET: Admin/HomeHeroes
         public async Task<IActionResult> Index()
         {
-            return View(await _context.Heroes.ToListAsync());
+            ViewBag.Count = _context.Heroes.Count();
+            List<HomeHero> homeHero = await _context.Heroes.ToListAsync();
+            return View(homeHero);
         }
 
         // GET: Admin/HomeHeroes/Create
@@ -53,7 +55,7 @@ namespace Funi.Areas.Admin.Controllers
                         await imageFile.CopyToAsync(stream);
                     }
 
-                    homeHero.Image = "uploads/" + uniqueFileName;
+                    homeHero.Image = uniqueFileName;
                 }
 
                 _context.Add(homeHero);
@@ -84,7 +86,7 @@ namespace Funi.Areas.Admin.Controllers
             if (ModelState.IsValid)
             {
                 var dbHero = await _context.Heroes.FindAsync(id);
-                if (dbHero == null) return NotFound();
+                if (dbHero == null) return BadRequest();
 
                 // məlumatları update edirik
                 dbHero.Title = homeHero.Title;
@@ -114,7 +116,7 @@ namespace Funi.Areas.Admin.Controllers
                             System.IO.File.Delete(oldPath);
                     }
 
-                    dbHero.Image = "uploads/" + uniqueFileName; // yenisini set edirik
+                    dbHero.Image =uniqueFileName; // yenisini set edirik
                 }
 
                 _context.Update(dbHero);

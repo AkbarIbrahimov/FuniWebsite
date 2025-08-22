@@ -8,5 +8,10 @@ namespace Funi.Controllers
         {
             return View();
         }
+
+        public IActionResult PersonDetail()
+        {
+            return View();
+        }
     }
 }
