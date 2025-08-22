@@ -1003,3 +1003,9 @@ C:\Users\User\OneDrive\Desktop\EllinMMC\C#\Funi\Funi\obj\Debug\net9.0\compressed
 C:\Users\User\OneDrive\Desktop\EllinMMC\C#\Funi\Funi\obj\Debug\net9.0\compressed\6ofxxq3j8z-f4v44ullrc.gz
 C:\Users\User\OneDrive\Desktop\EllinMMC\C#\Funi\Funi\obj\Debug\net9.0\compressed\ziad0ai879-7rthr17h2c.gz
 C:\Users\User\OneDrive\Desktop\EllinMMC\C#\Funi\Funi\obj\Debug\net9.0\compressed\rofjykaqvo-ahuplqq1ok.gz
+C:\Users\User\OneDrive\Desktop\EllinMMC\C#\Funi\Funi\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\User\OneDrive\Desktop\EllinMMC\C#\Funi\Funi\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\User\OneDrive\Desktop\EllinMMC\C#\Funi\Funi\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\User\OneDrive\Desktop\EllinMMC\C#\Funi\Funi\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\User\OneDrive\Desktop\EllinMMC\C#\Funi\Funi\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\User\OneDrive\Desktop\EllinMMC\C#\Funi\Funi\obj\Debug\net9.0\compressed\1jrd5t4xrm-yv5q98jwdu.gz

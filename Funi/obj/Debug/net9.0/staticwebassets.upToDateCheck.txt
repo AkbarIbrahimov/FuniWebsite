@@ -977,6 +977,7 @@ wwwroot\admin\vendors\typeahead.js\typeahead.bundle.min.js
 wwwroot\css\bootstrap.min.css
 wwwroot\css\Category.css
 wwwroot\css\PersonDetail.css
+wwwroot\css\register.css
 wwwroot\css\style.css
 wwwroot\css\tiny-slider.css
 wwwroot\favicon.png
@@ -1074,6 +1075,7 @@ wwwroot\lib\jquery\dist\jquery.slim.js
 wwwroot\lib\jquery\dist\jquery.slim.min.js
 wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
+wwwroot\uploads\616b1a8d-69e9-4090-82d6-4d268df68831.png
 wwwroot\uploads\e77a00e2-359f-45fb-b69e-6c501d5a8807.png
 C:\Users\User\OneDrive\Desktop\EllinMMC\C#\Funi\Funi\wwwroot\css\bootstrap.min.css
 C:\Users\User\OneDrive\Desktop\EllinMMC\C#\Funi\Funi\wwwroot\css\style.css
@@ -1804,3 +1806,4 @@ C:\Users\User\OneDrive\Desktop\EllinMMC\C#\Funi\Funi\wwwroot\admin\vendors\ti-ic
 C:\Users\User\OneDrive\Desktop\EllinMMC\C#\Funi\Funi\wwwroot\admin\vendors\ti-icons\fonts\themify.svg
 C:\Users\User\OneDrive\Desktop\EllinMMC\C#\Funi\Funi\wwwroot\admin\vendors\typeahead.js\typeahead.bundle.min.js
 C:\Users\User\OneDrive\Desktop\EllinMMC\C#\Funi\Funi\wwwroot\css\PersonDetail.css
+C:\Users\User\OneDrive\Desktop\EllinMMC\C#\Funi\Funi\wwwroot\css\register.css

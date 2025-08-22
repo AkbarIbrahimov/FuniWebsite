@@ -3,68 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\EllinMMC\\C#\\Funi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BD4F48A3-CD46-403C-9A02-DA60358821A0}|Funi\\Funi.csproj|c:\\users\\user\\onedrive\\desktop\\ellinmmc\\c#\\funi\\funi\\areas\\admin\\controllers\\homeheroescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD4F48A3-CD46-403C-9A02-DA60358821A0}|Funi\\Funi.csproj|solutionrelative:funi\\areas\\admin\\controllers\\homeheroescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BD4F48A3-CD46-403C-9A02-DA60358821A0}|Funi\\Funi.csproj|c:\\users\\user\\onedrive\\desktop\\ellinmmc\\c#\\funi\\funi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BD4F48A3-CD46-403C-9A02-DA60358821A0}|Funi\\Funi.csproj|solutionrelative:funi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD4F48A3-CD46-403C-9A02-DA60358821A0}|Funi\\Funi.csproj|c:\\users\\user\\onedrive\\desktop\\ellinmmc\\c#\\funi\\funi\\views\\about\\persondetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BD4F48A3-CD46-403C-9A02-DA60358821A0}|Funi\\Funi.csproj|solutionrelative:funi\\views\\about\\persondetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BD4F48A3-CD46-403C-9A02-DA60358821A0}|Funi\\Funi.csproj|c:\\users\\user\\onedrive\\desktop\\ellinmmc\\c#\\funi\\funi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD4F48A3-CD46-403C-9A02-DA60358821A0}|Funi\\Funi.csproj|solutionrelative:funi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD4F48A3-CD46-403C-9A02-DA60358821A0}|Funi\\Funi.csproj|c:\\users\\user\\onedrive\\desktop\\ellinmmc\\c#\\funi\\funi\\wwwroot\\css\\persondetail.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{BD4F48A3-CD46-403C-9A02-DA60358821A0}|Funi\\Funi.csproj|solutionrelative:funi\\wwwroot\\css\\persondetail.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{BD4F48A3-CD46-403C-9A02-DA60358821A0}|Funi\\Funi.csproj|c:\\users\\user\\onedrive\\desktop\\ellinmmc\\c#\\funi\\funi\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD4F48A3-CD46-403C-9A02-DA60358821A0}|Funi\\Funi.csproj|solutionrelative:funi\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD4F48A3-CD46-403C-9A02-DA60358821A0}|Funi\\Funi.csproj|c:\\users\\user\\onedrive\\desktop\\ellinmmc\\c#\\funi\\funi\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD4F48A3-CD46-403C-9A02-DA60358821A0}|Funi\\Funi.csproj|solutionrelative:funi\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD4F48A3-CD46-403C-9A02-DA60358821A0}|Funi\\Funi.csproj|c:\\users\\user\\onedrive\\desktop\\ellinmmc\\c#\\funi\\funi\\models\\persondetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD4F48A3-CD46-403C-9A02-DA60358821A0}|Funi\\Funi.csproj|solutionrelative:funi\\models\\persondetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD4F48A3-CD46-403C-9A02-DA60358821A0}|Funi\\Funi.csproj|c:\\users\\user\\onedrive\\desktop\\ellinmmc\\c#\\funi\\funi\\models\\ourteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD4F48A3-CD46-403C-9A02-DA60358821A0}|Funi\\Funi.csproj|solutionrelative:funi\\models\\ourteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD4F48A3-CD46-403C-9A02-DA60358821A0}|Funi\\Funi.csproj|c:\\users\\user\\onedrive\\desktop\\ellinmmc\\c#\\funi\\funi\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BD4F48A3-CD46-403C-9A02-DA60358821A0}|Funi\\Funi.csproj|solutionrelative:funi\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD4F48A3-CD46-403C-9A02-DA60358821A0}|Funi\\Funi.csproj|c:\\users\\user\\onedrive\\desktop\\ellinmmc\\c#\\funi\\funi\\areas\\admin\\views\\homeheroes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BD4F48A3-CD46-403C-9A02-DA60358821A0}|Funi\\Funi.csproj|solutionrelative:funi\\areas\\admin\\views\\homeheroes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD4F48A3-CD46-403C-9A02-DA60358821A0}|Funi\\Funi.csproj|c:\\users\\user\\onedrive\\desktop\\ellinmmc\\c#\\funi\\funi\\areas\\admin\\views\\homeheroes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BD4F48A3-CD46-403C-9A02-DA60358821A0}|Funi\\Funi.csproj|solutionrelative:funi\\areas\\admin\\views\\homeheroes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD4F48A3-CD46-403C-9A02-DA60358821A0}|Funi\\Funi.csproj|c:\\users\\user\\onedrive\\desktop\\ellinmmc\\c#\\funi\\funi\\areas\\admin\\views\\homeheroes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BD4F48A3-CD46-403C-9A02-DA60358821A0}|Funi\\Funi.csproj|solutionrelative:funi\\areas\\admin\\views\\homeheroes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD4F48A3-CD46-403C-9A02-DA60358821A0}|Funi\\Funi.csproj|c:\\users\\user\\onedrive\\desktop\\ellinmmc\\c#\\funi\\funi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BD4F48A3-CD46-403C-9A02-DA60358821A0}|Funi\\Funi.csproj|solutionrelative:funi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BD4F48A3-CD46-403C-9A02-DA60358821A0}|Funi\\Funi.csproj|c:\\users\\user\\onedrive\\desktop\\ellinmmc\\c#\\funi\\funi\\areas\\admin\\controllers\\homeheroescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD4F48A3-CD46-403C-9A02-DA60358821A0}|Funi\\Funi.csproj|solutionrelative:funi\\areas\\admin\\controllers\\homeheroescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD4F48A3-CD46-403C-9A02-DA60358821A0}|Funi\\Funi.csproj|c:\\users\\user\\onedrive\\desktop\\ellinmmc\\c#\\funi\\funi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD4F48A3-CD46-403C-9A02-DA60358821A0}|Funi\\Funi.csproj|solutionrelative:funi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD4F48A3-CD46-403C-9A02-DA60358821A0}|Funi\\Funi.csproj|c:\\users\\user\\onedrive\\desktop\\ellinmmc\\c#\\funi\\funi\\models\\homehero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD4F48A3-CD46-403C-9A02-DA60358821A0}|Funi\\Funi.csproj|solutionrelative:funi\\models\\homehero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD4F48A3-CD46-403C-9A02-DA60358821A0}|Funi\\Funi.csproj|c:\\users\\user\\onedrive\\desktop\\ellinmmc\\c#\\funi\\funi\\wwwroot\\css\\register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BD4F48A3-CD46-403C-9A02-DA60358821A0}|Funi\\Funi.csproj|solutionrelative:funi\\wwwroot\\css\\register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD4F48A3-CD46-403C-9A02-DA60358821A0}|Funi\\Funi.csproj|c:\\users\\user\\onedrive\\desktop\\ellinmmc\\c#\\funi\\funi\\areas\\admin\\views\\homeheroes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BD4F48A3-CD46-403C-9A02-DA60358821A0}|Funi\\Funi.csproj|solutionrelative:funi\\areas\\admin\\views\\homeheroes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BD4F48A3-CD46-403C-9A02-DA60358821A0}|Funi\\Funi.csproj|c:\\users\\user\\onedrive\\desktop\\ellinmmc\\c#\\funi\\funi\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD4F48A3-CD46-403C-9A02-DA60358821A0}|Funi\\Funi.csproj|solutionrelative:funi\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD4F48A3-CD46-403C-9A02-DA60358821A0}|Funi\\Funi.csproj|c:\\users\\user\\onedrive\\desktop\\ellinmmc\\c#\\funi\\funi\\wwwroot\\admin\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{BD4F48A3-CD46-403C-9A02-DA60358821A0}|Funi\\Funi.csproj|solutionrelative:funi\\wwwroot\\admin\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{BD4F48A3-CD46-403C-9A02-DA60358821A0}|Funi\\Funi.csproj|c:\\users\\user\\onedrive\\desktop\\ellinmmc\\c#\\funi\\funi\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD4F48A3-CD46-403C-9A02-DA60358821A0}|Funi\\Funi.csproj|solutionrelative:funi\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,197 +50,105 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\EllinMMC\\C#\\Funi\\Funi\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Funi\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\EllinMMC\\C#\\Funi\\Funi\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Funi\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAAwEwAAAA8AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\EllinMMC\\C#\\Funi\\Funi\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "Funi\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEAAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-21T10:19:33.654Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PersonDetail.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\EllinMMC\\C#\\Funi\\Funi\\Views\\About\\PersonDetail.cshtml",
-              "RelativeDocumentMoniker": "Funi\\Views\\About\\PersonDetail.cshtml",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\EllinMMC\\C#\\Funi\\Funi\\Views\\About\\PersonDetail.cshtml",
-              "RelativeToolTip": "Funi\\Views\\About\\PersonDetail.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-21T10:16:44.536Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PersonDetail.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\EllinMMC\\C#\\Funi\\Funi\\Models\\PersonDetail.cs",
-              "RelativeDocumentMoniker": "Funi\\Models\\PersonDetail.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\EllinMMC\\C#\\Funi\\Funi\\Models\\PersonDetail.cs",
-              "RelativeToolTip": "Funi\\Models\\PersonDetail.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T10:12:33.191Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "OurTeam.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\EllinMMC\\C#\\Funi\\Funi\\Models\\OurTeam.cs",
-              "RelativeDocumentMoniker": "Funi\\Models\\OurTeam.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\EllinMMC\\C#\\Funi\\Funi\\Models\\OurTeam.cs",
-              "RelativeToolTip": "Funi\\Models\\OurTeam.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T10:11:04.057Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\EllinMMC\\C#\\Funi\\Funi\\Views\\About\\Index.cshtml",
-              "RelativeDocumentMoniker": "Funi\\Views\\About\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\EllinMMC\\C#\\Funi\\Funi\\Views\\About\\Index.cshtml",
-              "RelativeToolTip": "Funi\\Views\\About\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-21T09:19:40.35Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AboutController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\EllinMMC\\C#\\Funi\\Funi\\Controllers\\AboutController.cs",
-              "RelativeDocumentMoniker": "Funi\\Controllers\\AboutController.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\EllinMMC\\C#\\Funi\\Funi\\Controllers\\AboutController.cs",
-              "RelativeToolTip": "Funi\\Controllers\\AboutController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T09:19:35.341Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\EllinMMC\\C#\\Funi\\Funi\\Areas\\Admin\\Views\\HomeHeroes\\Create.cshtml",
-              "RelativeDocumentMoniker": "Funi\\Areas\\Admin\\Views\\HomeHeroes\\Create.cshtml",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\EllinMMC\\C#\\Funi\\Funi\\Areas\\Admin\\Views\\HomeHeroes\\Create.cshtml",
-              "RelativeToolTip": "Funi\\Areas\\Admin\\Views\\HomeHeroes\\Create.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-21T09:13:48.948Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeHeroesController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\EllinMMC\\C#\\Funi\\Funi\\Areas\\Admin\\Controllers\\HomeHeroesController.cs",
-              "RelativeDocumentMoniker": "Funi\\Areas\\Admin\\Controllers\\HomeHeroesController.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\EllinMMC\\C#\\Funi\\Funi\\Areas\\Admin\\Controllers\\HomeHeroesController.cs*",
-              "RelativeToolTip": "Funi\\Areas\\Admin\\Controllers\\HomeHeroesController.cs*",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAswG4AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T10:20:38.442Z",
+              "WhenOpened": "2025-08-22T10:28:55.819Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "PersonDetail.css",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\EllinMMC\\C#\\Funi\\Funi\\wwwroot\\css\\PersonDetail.css",
-              "RelativeDocumentMoniker": "Funi\\wwwroot\\css\\PersonDetail.css",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\EllinMMC\\C#\\Funi\\Funi\\wwwroot\\css\\PersonDetail.css",
-              "RelativeToolTip": "Funi\\wwwroot\\css\\PersonDetail.css",
-              "ViewState": "AgIAADIAAAAAAAAAAAAAwHgAAAAAAAAAAAAAAA==",
+              "Title": "HomeHeroesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\EllinMMC\\C#\\Funi\\Funi\\Areas\\Admin\\Controllers\\HomeHeroesController.cs",
+              "RelativeDocumentMoniker": "Funi\\Areas\\Admin\\Controllers\\HomeHeroesController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\EllinMMC\\C#\\Funi\\Funi\\Areas\\Admin\\Controllers\\HomeHeroesController.cs",
+              "RelativeToolTip": "Funi\\Areas\\Admin\\Controllers\\HomeHeroesController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA3wCoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T10:11:04.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "register.css",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\EllinMMC\\C#\\Funi\\Funi\\wwwroot\\css\\register.css",
+              "RelativeDocumentMoniker": "Funi\\wwwroot\\css\\register.css",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\EllinMMC\\C#\\Funi\\Funi\\wwwroot\\css\\register.css",
+              "RelativeToolTip": "Funi\\wwwroot\\css\\register.css",
+              "ViewState": "AgIAADQBAAAAAAAAAAAAwGUBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-08-21T10:19:15.546Z"
+              "WhenOpened": "2025-08-22T09:30:32.652Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\EllinMMC\\C#\\Funi\\Funi\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Funi\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\EllinMMC\\C#\\Funi\\Funi\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Funi\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\EllinMMC\\C#\\Funi\\Funi\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Funi\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\EllinMMC\\C#\\Funi\\Funi\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Funi\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-21T08:54:09.836Z"
+              "WhenOpened": "2025-08-22T09:14:32.984Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\EllinMMC\\C#\\Funi\\Funi\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Funi\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\EllinMMC\\C#\\Funi\\Funi\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Funi\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwBgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T09:12:56.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\EllinMMC\\C#\\Funi\\Funi\\ViewModels\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "Funi\\ViewModels\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\EllinMMC\\C#\\Funi\\Funi\\ViewModels\\RegisterVM.cs",
+              "RelativeToolTip": "Funi\\ViewModels\\RegisterVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T09:10:48.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\EllinMMC\\C#\\Funi\\Funi\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Funi\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\EllinMMC\\C#\\Funi\\Funi\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "Funi\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T09:09:05.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\EllinMMC\\C#\\Funi\\Funi\\Program.cs",
               "RelativeDocumentMoniker": "Funi\\Program.cs",
               "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\EllinMMC\\C#\\Funi\\Funi\\Program.cs",
               "RelativeToolTip": "Funi\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwA8AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T10:40:09.288Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "HomeHero.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\EllinMMC\\C#\\Funi\\Funi\\Models\\HomeHero.cs",
-              "RelativeDocumentMoniker": "Funi\\Models\\HomeHero.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\EllinMMC\\C#\\Funi\\Funi\\Models\\HomeHero.cs",
-              "RelativeToolTip": "Funi\\Models\\HomeHero.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T10:22:10.337Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\EllinMMC\\C#\\Funi\\Funi\\Areas\\Admin\\Views\\HomeHeroes\\Details.cshtml",
-              "RelativeDocumentMoniker": "Funi\\Areas\\Admin\\Views\\HomeHeroes\\Details.cshtml",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\EllinMMC\\C#\\Funi\\Funi\\Areas\\Admin\\Views\\HomeHeroes\\Details.cshtml",
-              "RelativeToolTip": "Funi\\Areas\\Admin\\Views\\HomeHeroes\\Details.cshtml",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAACMAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-20T10:16:49.236Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\EllinMMC\\C#\\Funi\\Funi\\Areas\\Admin\\Views\\HomeHeroes\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Funi\\Areas\\Admin\\Views\\HomeHeroes\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\EllinMMC\\C#\\Funi\\Funi\\Areas\\Admin\\Views\\HomeHeroes\\Edit.cshtml",
-              "RelativeToolTip": "Funi\\Areas\\Admin\\Views\\HomeHeroes\\Edit.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAwCEAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-20T10:15:40.322Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "style.css",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\EllinMMC\\C#\\Funi\\Funi\\wwwroot\\admin\\css\\style.css",
-              "RelativeDocumentMoniker": "Funi\\wwwroot\\admin\\css\\style.css",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\EllinMMC\\C#\\Funi\\Funi\\wwwroot\\admin\\css\\style.css",
-              "RelativeToolTip": "Funi\\wwwroot\\admin\\css\\style.css",
-              "ViewState": "AgIAAHldAAAAAAAAAADwv4BdAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-08-20T09:58:17.711Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\EllinMMC\\C#\\Funi\\Funi\\Areas\\Admin\\Views\\HomeHeroes\\Index.cshtml",
-              "RelativeDocumentMoniker": "Funi\\Areas\\Admin\\Views\\HomeHeroes\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\EllinMMC\\C#\\Funi\\Funi\\Areas\\Admin\\Views\\HomeHeroes\\Index.cshtml",
-              "RelativeToolTip": "Funi\\Areas\\Admin\\Views\\HomeHeroes\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-20T09:47:27.084Z"
+              "WhenOpened": "2025-08-22T08:54:21.741Z",
+              "EditorCaption": ""
             }
           ]
         }
